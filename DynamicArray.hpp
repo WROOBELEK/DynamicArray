@@ -1,4 +1,4 @@
-// DynamicArray.h
+// DynamicArray.hpp
 #pragma once
 
 #include <string>
