@@ -1,9 +1,9 @@
-// Person.h
+// Person.hpp
 #pragma once
 
 #include <string>
 
-#include "Misc.h"
+#include "Misc.hpp"
 
 using namespace std;
 
