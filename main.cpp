@@ -3,7 +3,7 @@
 #include <iomanip>
 #include <ctime>
 
-#include "DynamicArray.h"
+#include "DynamicArray.hpp"
 
 using namespace std;
 
